@@ -25,7 +25,7 @@
     "elemental": "^0.6.1",
     "emojilib": "^2.0.2",
     "highlight.js": "^9.8.0",
-    "lodash": "^4.16.6",
+    "lodash": "^4.17.21",
     "moment": "^2.15.2",
     "native-promise-only": "^0.8.1",
     "prefix-lite": "0.0.2",
